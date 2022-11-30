@@ -83,13 +83,13 @@ Online Judge（以下简称 OJ）提交方式为提交 git repo 链接，提交�
   - 周三（12 月 7 日）：上机课，检查开发文档；
   - 周日（12 月 11 日）：检查文件存储结构（块状链表）进度。
 - **Week 2**
-  - 周三（12 月 14 日 18:30 前）：**通过**文件存储数据结构正确性评测（[暂未上线](https://invalid)）；
+  - 周三（12 月 14 日 18:30 前）：**通过**文件存储数据结构正确性评测（[P1774](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1774)）；
   - 周日（12 月 18 日）：检查主体逻辑部分进度。
 - **Week 3**
-  - 周三（12 月 21 日 18:30 前）：**通过**公开测试点评测（[暂未上线](https://invalid)）；
+  - 周三（12 月 21 日 18:30 前）：**通过**公开测试点评测（[P1075](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1075)）；
   - 周日（12 月 25 日）：检查非公开测试点进度。
 - **Week 4** *（对应校历第 16 周）*
-  - 周三（12 月 28 日 18:30 前）：**通过**非公开测试点评测（[暂未上线](https://invalid)），上机课后进行 code review。
+  - 周三（12 月 28 日 18:30 前）：**通过**非公开测试点评测（[P1775](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1775)），上机课后进行 code review。
     - Bonus 部分截止日期同主体逻辑，超时完成的部分不计分。
 
 <!--
