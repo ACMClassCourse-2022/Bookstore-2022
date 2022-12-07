@@ -123,7 +123,7 @@ Online Judge（以下简称 OJ）提交方式为提交 git repo 链接，提交�
 
 #### Git 版本管理
 
-你需要了解版本库、工作区、暂存区等 git 基础概念，并掌握 git 的常用指令，详见 [wiki](https://acm.sjtu.edu.cn/wiki/Programming_2022/Git) 和 [上机课 slides](https://invalid)。
+你需要了解版本库、工作区、暂存区等 git 基础概念，并掌握 git 的常用指令，详见 [wiki](https://acm.sjtu.edu.cn/wiki/Programming_2022/Git) 和 [上机课 slides](https://acm.sjtu.edu.cn/wiki/File:%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%2BGit_(2022).pdf)。
 
 你需要合理使用 commit 功能维护代码版本。具体来说：
 
