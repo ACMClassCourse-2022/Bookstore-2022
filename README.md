@@ -89,10 +89,13 @@ Online Judge（以下简称 OJ）提交方式为提交 git repo 链接，提交�
   - 周三（12 月 21 日 18:30 前）：**通过**公开测试点评测（[P1075](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1075)）；
   - 周日（12 月 25 日）：检查非公开测试点进度。
 - **Week 4** *（对应校历第 16 周）*
-  - 周三（12 月 28 日 18:30 前）：**通过**非公开测试点评测（[P1775](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1775)），上机课后进行 code review。
+  - 周日（1 月 1 日 18:30 前）：**通过**非公开测试点评测（[P1775](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1775)），上机课后进行 code review。
     - Bonus 部分截止日期同主体逻辑，超时完成的部分不计分。
 
+如果有同学因感染或身体不适而无法如期完成大作业，请及时告知助教。对于此类同学，1 月 6 日下午 14:00 为极限迟交时间，超过此时间的提交无效。
+
 <!--
+
   - 周五 `12.31`：**通过**主体逻辑部分正确性测试
     - OJ 测试由两部分组成：[公开数据与基础鲁棒性评测 (P1075)](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1075)； [里数据评测 (P1411)](https://acm.sjtu.edu.cn/OnlineJudge/problem?problem_id=1411)
     - 所有学生完成 Code Review
